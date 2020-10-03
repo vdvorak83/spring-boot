@@ -95,7 +95,7 @@
 		<jboss-transaction-spi.version>7.6.0.Final</jboss-transaction-spi.version>
 		<jdom2.version>2.0.6</jdom2.version>
 		<jedis.version>2.9.0</jedis.version>
-		<jersey.version>2.26</jersey.version>
+		<jersey.version>2.29.1</jersey.version>
 		<jest.version>5.3.3</jest.version>
 		<jetty.version>9.4.8.v20171121</jetty.version>
 		<jetty-jsp.version>2.2.0.v201112011158</jetty-jsp.version>
@@ -150,20 +150,20 @@
 		<snakeyaml.version>1.19</snakeyaml.version>
 		<solr.version>6.6.2</solr.version>
 		<spring.version>5.0.5.BUILD-SNAPSHOT</spring.version>
-		<spring-amqp.version>2.0.2.RELEASE</spring-amqp.version>
-		<spring-batch.version>4.0.1.RELEASE</spring-batch.version>
+		<spring-amqp.version>2.2.11.RELEASE</spring-amqp.version>
+		<spring-batch.version>4.0.2.RELEASE</spring-batch.version>
 		<spring-cloud-connectors.version>2.0.1.RELEASE</spring-cloud-connectors.version>
 		<spring-data-releasetrain.version>Kay-SR5</spring-data-releasetrain.version>
-		<spring-hateoas.version>0.24.0.RELEASE</spring-hateoas.version>
+		<spring-hateoas.version>1.1.2.RELEASE</spring-hateoas.version>
 		<spring-integration.version>5.0.3.RELEASE</spring-integration.version>
-		<spring-kafka.version>2.1.4.RELEASE</spring-kafka.version>
+		<spring-kafka.version>2.3.11.RELEASE</spring-kafka.version>
 		<spring-ldap.version>2.3.2.RELEASE</spring-ldap.version>
 		<spring-plugin.version>1.2.0.RELEASE</spring-plugin.version>
 		<spring-restdocs.version>2.0.0.RELEASE</spring-restdocs.version>
 		<spring-retry.version>1.2.2.RELEASE</spring-retry.version>
 		<spring-security.version>5.0.3.RELEASE</spring-security.version>
 		<spring-session-bom.version>Apple-SR1</spring-session-bom.version>
-		<spring-ws.version>3.0.0.RELEASE</spring-ws.version>
+		<spring-ws.version>3.0.4.RELEASE</spring-ws.version>
 		<sqlite-jdbc.version>3.21.0.1</sqlite-jdbc.version>
 		<statsd-client.version>3.1.0</statsd-client.version>
 		<sun-mail.version>${javax-mail.version}</sun-mail.version>
