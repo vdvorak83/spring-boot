@@ -35,7 +35,7 @@
 		<activemq.version>5.15.3</activemq.version>
 		<antlr2.version>2.7.7</antlr2.version>
 		<appengine-sdk.version>1.9.63</appengine-sdk.version>
-		<artemis.version>2.4.0</artemis.version>
+		<artemis.version>2.12.0</artemis.version>
 		<aspectj.version>1.8.13</aspectj.version>
 		<assertj.version>3.9.1</assertj.version>
 		<atomikos.version>4.0.6</atomikos.version>
@@ -61,7 +61,7 @@
 		<freemarker.version>2.3.27-incubating</freemarker.version>
 		<elasticsearch.version>5.6.8</elasticsearch.version>
 		<glassfish-el.version>3.0.0</glassfish-el.version>
-		<groovy.version>2.4.14</groovy.version>
+		<groovy.version>2.4.21</groovy.version>
 		<gson.version>2.8.2</gson.version>
 		<h2.version>1.4.196</h2.version>
 		<hamcrest.version>1.3</hamcrest.version>
@@ -75,7 +75,7 @@
 		<httpasyncclient.version>4.1.3</httpasyncclient.version>
 		<httpclient.version>4.5.5</httpclient.version>
 		<httpcore.version>4.4.9</httpcore.version>
-		<infinispan.version>9.1.6.Final</infinispan.version>
+		<infinispan.version>9.2.0.Final</infinispan.version>
 		<influxdb-java.version>2.9</influxdb-java.version>
 		<jackson.version>2.9.4</jackson.version>
 		<janino.version>3.0.8</janino.version>
@@ -96,7 +96,7 @@
 		<jdom2.version>2.0.6</jdom2.version>
 		<jedis.version>2.9.0</jedis.version>
 		<jersey.version>2.26</jersey.version>
-		<jest.version>5.3.3</jest.version>
+		<jest.version>6.3.0</jest.version>
 		<jetty.version>9.4.8.v20171121</jetty.version>
 		<jetty-jsp.version>2.2.0.v201112011158</jetty-jsp.version>
 		<jetty-el.version>8.5.24.2</jetty-el.version>
@@ -115,7 +115,7 @@
 		<junit-platform.version>1.1.0</junit-platform.version>
 		<kotlin.version>1.2.30</kotlin.version>
 		<lettuce.version>5.0.2.RELEASE</lettuce.version>
-		<liquibase.version>3.5.5</liquibase.version>
+		<liquibase.version>3.7.0</liquibase.version>
 		<log4j2.version>2.10.0</log4j2.version>
 		<logback.version>1.2.3</logback.version>
 		<lombok.version>1.16.20</lombok.version>
@@ -150,26 +150,26 @@
 		<snakeyaml.version>1.19</snakeyaml.version>
 		<solr.version>6.6.2</solr.version>
 		<spring.version>5.0.5.BUILD-SNAPSHOT</spring.version>
-		<spring-amqp.version>2.0.2.RELEASE</spring-amqp.version>
-		<spring-batch.version>4.0.1.RELEASE</spring-batch.version>
-		<spring-cloud-connectors.version>2.0.1.RELEASE</spring-cloud-connectors.version>
+		<spring-amqp.version>2.3.7</spring-amqp.version>
+		<spring-batch.version>4.0.2.RELEASE</spring-batch.version>
+		<spring-cloud-connectors.version>2.0.6.RELEASE</spring-cloud-connectors.version>
 		<spring-data-releasetrain.version>Kay-SR5</spring-data-releasetrain.version>
-		<spring-hateoas.version>0.24.0.RELEASE</spring-hateoas.version>
+		<spring-hateoas.version>1.0.0.RELEASE</spring-hateoas.version>
 		<spring-integration.version>5.0.3.RELEASE</spring-integration.version>
-		<spring-kafka.version>2.1.4.RELEASE</spring-kafka.version>
+		<spring-kafka.version>2.7.2</spring-kafka.version>
 		<spring-ldap.version>2.3.2.RELEASE</spring-ldap.version>
 		<spring-plugin.version>1.2.0.RELEASE</spring-plugin.version>
 		<spring-restdocs.version>2.0.0.RELEASE</spring-restdocs.version>
 		<spring-retry.version>1.2.2.RELEASE</spring-retry.version>
 		<spring-security.version>5.0.3.RELEASE</spring-security.version>
 		<spring-session-bom.version>Apple-SR1</spring-session-bom.version>
-		<spring-ws.version>3.0.0.RELEASE</spring-ws.version>
+		<spring-ws.version>3.0.4.RELEASE</spring-ws.version>
 		<sqlite-jdbc.version>3.21.0.1</sqlite-jdbc.version>
 		<statsd-client.version>3.1.0</statsd-client.version>
 		<sun-mail.version>${javax-mail.version}</sun-mail.version>
 		<thymeleaf.version>3.0.9.RELEASE</thymeleaf.version>
 		<thymeleaf-extras-springsecurity4.version>3.0.2.RELEASE</thymeleaf-extras-springsecurity4.version>
-		<thymeleaf-layout-dialect.version>2.3.0</thymeleaf-layout-dialect.version>
+		<thymeleaf-layout-dialect.version>2.5.3</thymeleaf-layout-dialect.version>
 		<thymeleaf-extras-data-attribute.version>2.0.1</thymeleaf-extras-data-attribute.version>
 		<thymeleaf-extras-java8time.version>3.0.1.RELEASE</thymeleaf-extras-java8time.version>
 		<tomcat.version>8.5.28</tomcat.version>
