@@ -115,7 +115,7 @@
 		<junit-platform.version>1.1.0</junit-platform.version>
 		<kotlin.version>1.2.30</kotlin.version>
 		<lettuce.version>5.0.2.RELEASE</lettuce.version>
-		<liquibase.version>3.5.5</liquibase.version>
+		<liquibase.version>3.6.0</liquibase.version>
 		<log4j2.version>2.10.0</log4j2.version>
 		<logback.version>1.2.3</logback.version>
 		<lombok.version>1.16.20</lombok.version>
@@ -150,7 +150,7 @@
 		<snakeyaml.version>1.19</snakeyaml.version>
 		<solr.version>6.6.2</solr.version>
 		<spring.version>5.0.5.BUILD-SNAPSHOT</spring.version>
-		<spring-amqp.version>2.0.2.RELEASE</spring-amqp.version>
+		<spring-amqp.version>2.2.19.RELEASE</spring-amqp.version>
 		<spring-batch.version>4.0.1.RELEASE</spring-batch.version>
 		<spring-cloud-connectors.version>2.0.1.RELEASE</spring-cloud-connectors.version>
 		<spring-data-releasetrain.version>Kay-SR5</spring-data-releasetrain.version>
