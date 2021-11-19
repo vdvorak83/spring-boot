@@ -117,7 +117,7 @@
 		<lettuce.version>5.0.2.RELEASE</lettuce.version>
 		<liquibase.version>3.5.5</liquibase.version>
 		<log4j2.version>2.10.0</log4j2.version>
-		<logback.version>1.2.3</logback.version>
+		<logback.version>1.2.7</logback.version>
 		<lombok.version>1.16.20</lombok.version>
 		<mariadb.version>2.2.2</mariadb.version>
 		<micrometer.version>1.0.2</micrometer.version>
