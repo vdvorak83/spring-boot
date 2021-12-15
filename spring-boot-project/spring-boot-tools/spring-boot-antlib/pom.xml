@@ -12,7 +12,7 @@
 	<description>Spring Boot Antlib</description>
 	<properties>
 		<main.basedir>${basedir}/../../..</main.basedir>
-		<ant.version>1.9.3</ant.version>
+		<ant.version>1.10.9</ant.version>
 	</properties>
 	<dependencies>
 		<!-- Compile -->
@@ -70,24 +70,22 @@
 						<phase>integration-test</phase>
 						<configuration>
 							<target>
-								<mkdir dir="${project.build.directory}/it" />
+								<mkdir dir="${project.build.directory}/it"/>
 								<copy todir="${project.build.directory}/it">
-									<fileset dir="${project.basedir}/src/it" />
+									<fileset dir="${project.basedir}/src/it"/>
 								</copy>
 								<path id="taskpath">
-									<fileset dir="${project.build.directory}"
-										includes="${project.build.finalName}.${project.packaging}" />
+									<fileset dir="${project.build.directory}" includes="${project.build.finalName}.${project.packaging}"/>
 								</path>
-								<pathconvert refid="taskpath" />
-								<typedef resource="org/springframework/boot/ant/antlib.xml" classpathref="taskpath" uri="antlib:org.springframework.boot.ant" />
-								<property name="build.compiler" value="${antBuildCompiler}" />
+								<pathconvert refid="taskpath"/>
+								<typedef resource="org/springframework/boot/ant/antlib.xml" classpathref="taskpath" uri="antlib:org.springframework.boot.ant"/>
+								<property name="build.compiler" value="${antBuildCompiler}"/>
 								<antunit xmlns="antlib:org.apache.ant.antunit">
 									<propertyset>
-										<propertyref name="build.compiler" />
+										<propertyref name="build.compiler"/>
 									</propertyset>
-									<plainlistener />
-									<fileset xmlns="antlib:org.apache.tools.ant" dir="${project.build.directory}/it"
-										includes="**/build.xml" />
+									<plainlistener/>
+									<fileset xmlns="antlib:org.apache.tools.ant" dir="${project.build.directory}/it" includes="**/build.xml"/>
 								</antunit>
 							</target>
 							<skip>${skipTests}</skip>
