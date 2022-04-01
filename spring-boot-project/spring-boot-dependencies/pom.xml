@@ -121,7 +121,7 @@
 		<lombok.version>1.16.20</lombok.version>
 		<mariadb.version>2.2.2</mariadb.version>
 		<micrometer.version>1.0.2</micrometer.version>
-		<mockito.version>2.15.0</mockito.version>
+		<mockito.version>2.28.2</mockito.version>
 		<mongo-driver-reactivestreams.version>1.7.1</mongo-driver-reactivestreams.version>
 		<mongodb.version>3.6.3</mongodb.version>
 		<mssql-jdbc.version>6.2.2.jre8</mssql-jdbc.version>
